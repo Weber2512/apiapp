@@ -1,4 +1,4 @@
-# apiapp
+# Apiapp
 
 A new Flutter project.
 
@@ -6,7 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+To run the application, open the terminal with the correct path and write as per the following,
+1. flutter pub get (this will install all the dependencies of the related project)
+2. Select the Android device.
+3. flutter run (to start the app).
+
+Here are a few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
